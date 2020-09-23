@@ -1,0 +1,8 @@
+*.sln
+*.aps
+/Debug/
+/Release/
+/.vs/
+Project29.vcxproj 
+Project29.vcxproj.filters
+Project29.vcxproj.user
